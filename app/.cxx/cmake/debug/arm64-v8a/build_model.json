@@ -1,0 +1,71 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/apple/other/VideoEditor-For-Android",
+      "sdkFolder": "/Users/apple/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/apple/other/VideoEditor-For-Android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/apple/other/VideoEditor-For-Android/app",
+      "makeFile": "/Users/apple/other/VideoEditor-For-Android/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/apple/other/VideoEditor-For-Android/.cxx",
+      "cxxFolder": "/Users/apple/other/VideoEditor-For-Android/app/.cxx",
+      "ndkFolder": "/Users/apple/Library/Android/sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/apple/other/VideoEditor-For-Android/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/apple/other/VideoEditor-For-Android/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 18,
+  "cxxBuildFolder": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/Users/apple/other/VideoEditor-For-Android/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/apple/other/VideoEditor-For-Android/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}
